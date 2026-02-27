@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Practice Problem: EC2 IAM Action Classification
 
