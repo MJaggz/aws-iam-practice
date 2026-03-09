@@ -7,4 +7,4 @@ This repository contains practice problems focused on:
 - AWS access level classification
 - Looping through nested dictionaries
 
-Built to prepare for cloud/security internships.
+small little practice :)
